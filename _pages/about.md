@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifan Yang's Webpage"
+title: "Yifan Yang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
