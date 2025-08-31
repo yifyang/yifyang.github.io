@@ -22,7 +22,7 @@ repository               : "yifyang/yifyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_photo.jpg"
+  avatar           : "personal_photo.png"
   name             : "Yifan Yang(Toby)"
   location         : "Hong Kong"
   email            : "yi-fan.yang@connect.polyu.hk"
