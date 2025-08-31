@@ -10,7 +10,7 @@ redirect_from:
 ## About me
 I am a first-year Ph.D. student at The Hong Kong Polytechnic University, advised by [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/). My research focuses on generative AI, mainly on Large Multimodal Models and Agentic AI.
 
-Prior to joining PolyU, I worked as a senior researcher at Tencent AI Lab and Tencent Hunyuan Team, where I was mainly responsible for the development and implementation of the Hunyuan Digital Human Language Model. Before that, I obtained my Bachelor’s degree from Shanghai Jiao Tong University and my Master’s degree from New York University.
+Prior to joining PolyU, I worked as a senior researcher at Tencent AI Lab and Tencent Hunyuan Team, where I was mainly responsible for the development and implementation of the Hunyuan Digital Human Language Model. Before that, I obtained my Bachelor’s degree from Shanghai Jiao Tong University and Master’s degree from New York University.
 
 If you’d like to connect, please feel free to reach out via email.
 
