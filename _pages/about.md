@@ -16,7 +16,7 @@ Before that, I obtained my Bachelor’s degree from Shanghai Jiao Tong Universit
 
 If you’d like to connect, please feel free to reach out via email.
 
-[Email](yi-fan.yang@connect.polyu.hk) / [Github](https://github.com/yifyang) / [Google Scholar](https://scholar.google.com/citations?user=vAP5Yi4AAAAJ&hl=en)
+Email: yi-fan.yang@connect.polyu.hk / [Github](https://github.com/yifyang) / [Google Scholar](https://scholar.google.com/citations?user=vAP5Yi4AAAAJ&hl=en)
 
 ## Projects
 - Design and Develope the Agent(NPC) system. It has been successfully deployed in three major games: DreamStar(元梦之星), Game for Peace(和平精英), and Honor of Kings(王者荣耀).
